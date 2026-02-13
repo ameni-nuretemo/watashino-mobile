@@ -7,4 +7,4 @@
 
 5日間の検証プロジェクトにより次の原則を作成した。
 
-# [原則](05_my_cellphone_rule.md)
+# [原則](docs/05_my_cellphone_rule.md)
